@@ -4,6 +4,8 @@ A simple semantic search engine on competitive programming problems.
 
 <img src="logo.gif" style="zoom:50%;" />
 
+**Update (2025/10/31):** Incorporated QOJ OCR data from [@cjwen6](https://github.com/cjwen6). Thanks a lot for the contribution! Also added HTTPS.
+
 **Update (2024/7/16):** It has been a long time :) Reorganized problems path. Switched LLM / embedder to [Gemma 2 9B](https://huggingface.co/google/gemma-2-9b-it) hosted by [together.ai](https://docs.together.ai) and [voyage-large-2-instruct](https://docs.voyageai.com/docs/pricing). Tweaked the prompt a little bit. Bought a new domain (see the link above) and switched to [vjudge](https://vjudge.net) as data source. See branch `old_ver` or history commits for the previous version.
 
 **Update (2024/5/19):** Added AtCoder. Thanks [@fstqwq](https://github.com/fstqwq) for the contribution!
